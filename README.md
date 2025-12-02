@@ -1,2 +1,38 @@
-# Gen-AI---Google-Cloud
-Certified by Google Cloud in Generative AI with training in LLMs, embeddings, and prompt optimization. Completed real-world labs on Vertex AI, model deployment, and generative application workflows.
+# 🎓 Google Cloud – Introduction to Generative AI  
+### Certification & Learning Notes
+
+Welcome to my repository showcasing my **Google Cloud Introduction to Generative AI** certification and the notes I created while completing the course.  
+This repo reflects my learning journey in **LLMs, embeddings, prompt engineering, and responsible AI practices**.
+
+---
+
+## 🖼️ Certification Preview
+
+| Certification Image |
+|---------------------|
+| ![GenAI Certificate](certificate.png) |
+
+**Certificate Details**  
+- **Name:** Pallavi Akolkar  
+- **Course:** Introduction to Generative AI  
+- **Issued by:** Google Cloud  
+- **Date:** 2 December 2025  
+- **Certificate Code:** 9510442  
+
+
+
+---
+
+## 📘 What I Learned
+
+- Understanding how **Generative AI** works  
+- Fundamentals of **Large Language Models (LLMs)**  
+- Working with **embeddings** and vector spaces  
+- **Prompt engineering** strategies  
+- Basics of **Vertex AI** for GenAI experimentation  
+- Importance of **ethical and responsible AI**
+
+---
+
+
+
