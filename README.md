@@ -8,7 +8,7 @@ This repo reflects my learning journey in **LLMs, embeddings, prompt engineering
 
 ## 🖼️ Certification Preview
 
-<img src="Certificate/Gen AI Certificate.pdf" width="500"/>
+<img src="Certificate/Screenshot 2025-12-02 090641.png" width="900"/>
 
   
 
