@@ -8,9 +8,10 @@ This repo reflects my learning journey in **LLMs, embeddings, prompt engineering
 
 ## 🖼️ Certification Preview
 
-| Certification Image |
-|---------------------|
-| ![GenAI Certificate](certificate.png) |
+<img src="Certificate/Gen AI Certificate.pdf" width="500"/>
+
+  
+
 
 **Certificate Details**  
 - **Name:** Pallavi Akolkar  
