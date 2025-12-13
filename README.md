@@ -4,7 +4,7 @@
 Welcome to my repository showcasing my **Google Cloud Introduction to Generative AI** certification and the notes I created while completing the course.  
 This repo reflects my learning journey in **LLMs, embeddings, prompt engineering, and responsible AI practices**.
 
----
+---    
 
 ## 🖼️ Certification Preview
 
